@@ -1,5 +1,5 @@
 # Starbucks
-![스타벅스이미지](https://hongteacher.github.io/starbucks/images/starbucks_logo.png)
+[![스타벅스이미지](https://hongteacher.github.io/starbucks/images/starbucks_logo.png)](https://hongteacher.github.io/starbucks1/)
 
 ## Favicon(파비콘, favorites icon)
 웹페이지를 나타내는 아이콘, 웹페이지의 로고를 설정합니다.  
