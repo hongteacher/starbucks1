@@ -1,3 +1,6 @@
+# Starbucks
+![스타벅스이미지](https://hongteacher.github.io/starbucks/images/starbucks_logo.png)
+
 ## Favicon(파비콘, favorites icon)
 웹페이지를 나타내는 아이콘, 웹페이지의 로고를 설정합니다.  
 대부분의 경우 루트 경로에 `favicon.ico` 파일을 위치하면 자동으로  
